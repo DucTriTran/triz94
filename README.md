@@ -1,2 +1,2 @@
 # triz94
-Code by an undergraduate
+My first Github repo
